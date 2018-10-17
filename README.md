@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Senior web developer
 
-You can use the [editor on GitHub](https://github.com/bsvetchine/bsvetchine.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a computer engineer specialized in web development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With 8 years experience in web development using Django / Python and javascript (jQuery, Backbone.js, React.js), I worked at every phase of a software development live cycle (planning, analysis, design, implementation and maintenance).
 
-### Markdown
+I like to find creative solutions to solve problems and pay attention to details to produce high-quality softwares.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+### Software management
 
-# Header 1
-## Header 2
-### Header 3
+Product management and roadmap, agile methodology, continuous integration, unit and functional testing, performance monitoring and management.
 
-- Bulleted
-- List
+### Web
 
-1. Numbered
-2. List
+Good knowledge of web technologies (standards and formats). Very deep knowledge of the Django framework. Skilled in Javascript (jQuery, Backbone.js and Reactjs). Knowledge of SEO, SEM and analytics.
 
-**Bold** and _Italic_ and `Code` text
+### Mobile
 
-[Link](url) and ![Image](src)
-```
+Know how to build mobile applications using React Native, fabric, crashlytics, push notifications, deeplink.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Programming
 
-### Jekyll Themes
+Very good skills in Python (v2 and v3).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsvetchine/bsvetchine.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Databases
 
-### Support or Contact
+Good knowledge of the SQL langage. Very good knowledge of PostgreSQL (installation, maintenance and monitoring).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Software tools
+
+Aha!, Trello, PivotalTracker, Git, Github, Codecov, Travis, tox, Zendesk, Jenkins, Sentry, Google Analytics, Mamoto, New Relic
+
+## Contact
+
+[Mail](mailto:bertrand.svetchine@gmail.com)
+
+[GitHub](https://github.com/bsvetchine)
+
+[LinkedIn](https://www.linkedin.com/in/bsvetchine/)
+
+[Viadeo](http://www.viadeo.com/p/0021qvm6u00hzdap)
+
+## Interest
+
+- Sport: paraglinding, kayaking, skiing, tennis
+- Music: blues, rock, metal, stoner
+- Literature: travel writers, novels, thrillers
