@@ -34,16 +34,13 @@ Aha!, Trello, PivotalTracker, Git, Github, Codecov, Travis, tox, Zendesk, Jenkin
 
 ## Contact
 
-[Mail](mailto:bertrand.svetchine@gmail.com)
-
-[GitHub](https://github.com/bsvetchine)
-
-[LinkedIn](https://www.linkedin.com/in/bsvetchine/)
-
+[Mail](mailto:bertrand.svetchine@gmail.com) . 
+[GitHub](https://github.com/bsvetchine) . 
+[LinkedIn](https://www.linkedin.com/in/bsvetchine/) . 
 [Viadeo](http://www.viadeo.com/p/0021qvm6u00hzdap)
 
 ## Interest
 
-- Sport: paraglinding, kayaking, skiing, tennis
-- Music: blues, rock, metal, stoner
-- Literature: travel writers, novels, thrillers
+Sport: paraglinding, kayaking, skiing, tennis<br>
+Music: blues, rock, metal, stoner<br>
+Literature: travel writers, novels, thrillers<br>
