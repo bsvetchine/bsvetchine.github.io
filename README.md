@@ -16,6 +16,10 @@ Product management and roadmap, agile methodology, continuous integration, unit 
 
 Good knowledge of web technologies (standards and formats). Very deep knowledge of the Django framework. Skilled in Javascript (jQuery, Backbone.js and Reactjs). Knowledge of SEO, SEM and analytics.
 
+### Data Science
+
+Practical use of Keras, TensorFlow, Scikit-Learn. Good knowledge of NumPy, Pandas, Matplotlib and seaborn libraries.
+
 ### Mobile
 
 Know how to build mobile applications using React Native, fabric, crashlytics, push notifications, deeplink.
