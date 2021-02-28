@@ -1,6 +1,6 @@
 ## Tech Lead
 
-I am an enthusiastic full-stack software developer with 10+ years experience building large-scale web applications in the e-commerce and co-working industries.
+I am a full-stack software developer with 10+ years experience building large-scale web applications in the e-commerce and co-working industries.
 
 Specialized in Typescript/Javascript/Nodejs and Python using the latest frameworks and always looking for the next best technology, I have an extensive experience with AWS, Kubernetes and Serverless.
 
@@ -45,8 +45,7 @@ As a tech lead for a bit more than a year, I like to share my enthusiasm for new
 
 [Mail](mailto:bertrand.svetchine@gmail.com) . 
 [GitHub](https://github.com/bsvetchine) . 
-[LinkedIn](https://www.linkedin.com/in/bsvetchine/) . 
-[Viadeo](http://www.viadeo.com/p/0021qvm6u00hzdap)
+[LinkedIn](https://www.linkedin.com/in/bsvetchine/)
 
 ## Interest
 
