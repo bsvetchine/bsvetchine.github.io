@@ -1,40 +1,45 @@
-## Senior web developer
+## Tech Lead
 
-I am a computer engineer specialized in web development.
+I am an enthusiastic full-stack software developer with 10+ years experience building large-scale web applications in the e-commerce and co-working industries.
 
-With 8 years experience in web development using Django / Python and javascript (jQuery, Backbone.js, React.js), I worked at every phase of a software development live cycle (planning, analysis, design, implementation and maintenance).
+Specialized in Typescript/Javascript/Nodejs and Python using the latest frameworks and always looking for the next best technology, I have an extensive experience with AWS, Kubernetes and Serverless.
 
-I like to find creative solutions to solve problems and pay attention to details to produce high-quality softwares.
+As a tech lead for a bit more than a year, I like to share my enthusiasm for new solutions with my team. We have accomplished one major project, involving the design, implementation and ownership of microservices in an event-driven architecture.
 
 ## Skills
 
-### Software management
+### Design
 
-Product management and roadmap, agile methodology, continuous integration, unit and functional testing, performance monitoring and management.
+- Domain Driven Design and the hexagonal architecture
+- Distributed System and microservice architecture
+- Event-driven architecture
+- Sagas Pattern (Orchestration & Choreography)
+- 12 factor app
+- SOLID principles
 
-### Web
+### Tech
 
-Good knowledge of web technologies (standards and formats). Very deep knowledge of the Django framework. Skilled in Javascript (jQuery, Backbone.js and Reactjs). Knowledge of SEO, SEM and analytics.
+- Typescript / Javascript / Nodejs
+- Python / Django
+- Reactjs / React Native
 
-### Data Science
+### Cloud
 
-Practical use of Keras, TensorFlow, Scikit-Learn. Good knowledge of NumPy, Pandas, Matplotlib and seaborn libraries.
+- Serverless: AWS lambda, AWS step functions, AWS API Gateway
+- pubSub: AWS SNS / AWS SQS
+- Datastore: S3 / DynamoDb and RDS Proxy to Postgres
+- deployment: serverless, AWS SAM
 
-### Mobile
+### Tools
 
-Know how to build mobile applications using React Native, fabric, crashlytics, push notifications, deeplink.
+- git
+- Docker / Kubernetes
+- Jenkins
 
-### Programming
+### Methodology
 
-Very good skills in Python (v2 and v3).
-
-### Databases
-
-Good knowledge of the SQL langage. Very good knowledge of PostgreSQL (installation, maintenance and monitoring).
-
-### Software tools
-
-Aha!, Trello, PivotalTracker, Git, Github, Codecov, Travis, tox, Zendesk, Jenkins, Sentry, Google Analytics, Mamoto, New Relic
+- Agile
+- Trunk Base Developmemt with clean CI/CD
 
 ## Contact
 
